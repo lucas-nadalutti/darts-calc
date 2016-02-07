@@ -1,0 +1,16 @@
+h1, h2, h3 {
+    color: #5589c7;
+}
+
+#choose-game {
+    width: 30%;
+}
+
+#chosen-game {
+    width: 69%;
+}
+
+.side-div {
+    vertical-align: top;
+    display: inline-block;
+}
